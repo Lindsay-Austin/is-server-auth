@@ -1,4 +1,4 @@
-package com.servicea.config;
+package com.authservice.config;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

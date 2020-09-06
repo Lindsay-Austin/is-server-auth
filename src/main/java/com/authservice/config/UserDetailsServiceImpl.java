@@ -1,6 +1,6 @@
-package com.servicea.config;
+package com.authservice.config;
 
-import com.servicea.entity.Account;
+import com.authservice.entity.Account;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

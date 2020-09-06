@@ -1,7 +1,7 @@
-package com.servicea.controller;
+package com.authservice.controller;
 
-import com.servicea.entity.User;
-import com.servicea.service.Crawler;
+import com.authservice.entity.User;
+import com.authservice.service.Crawler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

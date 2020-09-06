@@ -1,4 +1,4 @@
-package com.servicea.entity;
+package com.authservice.entity;
 
 import org.springframework.stereotype.Component;
 

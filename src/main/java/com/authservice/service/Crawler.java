@@ -1,4 +1,4 @@
-package com.servicea.service;
+package com.authservice.service;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

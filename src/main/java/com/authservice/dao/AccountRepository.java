@@ -1,6 +1,6 @@
-package com.servicea.dao;
+package com.authservice.dao;
 
-import com.servicea.entity.Account;
+import com.authservice.entity.Account;
 import org.springframework.stereotype.Component;
 
 /**
